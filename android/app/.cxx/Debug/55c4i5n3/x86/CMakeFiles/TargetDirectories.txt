@@ -1,0 +1,2 @@
+C:/Users/KISHORE/travel_bucket_list/android/app/.cxx/Debug/55c4i5n3/x86/CMakeFiles/edit_cache.dir
+C:/Users/KISHORE/travel_bucket_list/android/app/.cxx/Debug/55c4i5n3/x86/CMakeFiles/rebuild_cache.dir
